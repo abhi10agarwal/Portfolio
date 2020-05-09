@@ -1,3 +1,1 @@
-#portfolio project
-#adding new lines
-#adding more lines
+# Just a little info about me #
